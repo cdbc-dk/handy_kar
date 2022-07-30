@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units Count="28">
+      <Unit0>
+        <Filename Value="Handy_Kartotek.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="10"/>
+        <CursorPos Y="19"/>
+        <UsageCount Value="220"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="lfm_main.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="fmMain"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="560"/>
+        <CursorPos X="79" Y="382"/>
+        <UsageCount Value="220"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="handykar_const.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="2"/>
+        <UsageCount Value="220"/>
+        <Loaded Value="True"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="bom_hk.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="1"/>
+        <FoldState Value=" T3mR0B511h"/>
+        <UsageCount Value="219"/>
+        <Loaded Value="True"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="u_app_settings.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="125"/>
+        <CursorPos X="53" Y="5"/>
+        <UsageCount Value="200"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="../library_2014/litedb.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="110"/>
+        <CursorPos X="44" Y="134"/>
+        <UsageCount Value="17"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="../library_2014/u_cds_intf.pas"/>
+        <TopLine Value="50"/>
+        <CursorPos X="66" Y="74"/>
+        <UsageCount Value="38"/>
+      </Unit6>
+      <Unit7>
+        <Filename Value="/usr/share/fpcsrc/rtl/objpas/classes/classesh.inc"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="3" Y="177"/>
+        <UsageCount Value="1"/>
+      </Unit7>
+      <Unit8>
+        <Filename Value="/usr/lib/lazarus/lcl/printers.pas"/>
+        <UnitName Value="Printers"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1037"/>
+        <CursorPos X="69" Y="1061"/>
+        <UsageCount Value="16"/>
+      </Unit8>
+      <Unit9>
+        <Filename Value="/usr/share/fpcsrc/packages/fcl-base/src/inifiles.pp"/>
+        <UnitName Value="IniFiles"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1129"/>
+        <CursorPos X="3" Y="952"/>
+        <UsageCount Value="9"/>
+      </Unit9>
+      <Unit10>
+        <Filename Value="handykar.ini"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="34" Y="7"/>
+        <UsageCount Value="44"/>
+        <DefaultSyntaxHighlighter Value="Ini"/>
+      </Unit10>
+      <Unit11>
+        <Filename Value="../../library_2014/mtlinklist.pas"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="41"/>
+      </Unit11>
+      <Unit12>
+        <Filename Value="../../library_2014/memdataset.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="25"/>
+        <CursorPos X="9" Y="27"/>
+        <UsageCount Value="31"/>
+        <Bookmarks Count="1">
+          <Item0 X="36" Y="812" ID="1"/>
+        </Bookmarks>
+      </Unit12>
+      <Unit13>
+        <Filename Value="../../library_2014/litedb.pas"/>
+        <UnitName Value="bc_litedb"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="15"/>
+        <UsageCount Value="31"/>
+      </Unit13>
+      <Unit14>
+        <Filename Value="/usr/share/fpcsrc/packages/fcl-db/src/base/db.pas"/>
+        <UnitName Value="DB"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="2013"/>
+        <CursorPos X="20" Y="2018"/>
+        <UsageCount Value="27"/>
+        <Bookmarks Count="1">
+          <Item0 Y="410" ID="2"/>
+        </Bookmarks>
+      </Unit14>
+      <Unit15>
+        <Filename Value="/usr/share/fpcsrc/packages/fcl-db/src/sqldb/sqlite/sqlite3conn.pp"/>
+        <UnitName Value="SQLite3Conn"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1109"/>
+        <CursorPos X="3" Y="1095"/>
+        <UsageCount Value="118"/>
+      </Unit15>
+      <Unit16>
+        <Filename Value="/usr/share/fpcsrc/packages/fcl-db/src/sqldb/sqldb.pp"/>
+        <UnitName Value="SQLDB"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1369"/>
+        <CursorPos X="3" Y="1450"/>
+        <UsageCount Value="22"/>
+      </Unit16>
+      <Unit17>
+        <Filename Value="../../bc_rtl/bc_mtlinklist.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="708"/>
+        <CursorPos Y="716"/>
+        <UsageCount Value="35"/>
+      </Unit17>
+      <Unit18>
+        <Filename Value="../../bc_rtl/bc_litedb.pas"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos Y="252"/>
+        <UsageCount Value="102"/>
+      </Unit18>
+      <Unit19>
+        <Filename Value="../../bc_rtl/bc_guardian.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="134"/>
+        <CursorPos Y="143"/>
+        <UsageCount Value="74"/>
+      </Unit19>
+      <Unit20>
+        <Filename Value="/usr/share/fpcsrc/packages/fcl-db/src/base/database.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="659"/>
+        <CursorPos X="3" Y="734"/>
+        <UsageCount Value="8"/>
+      </Unit20>
+      <Unit21>
+        <Filename Value="/usr/share/fpcsrc/packages/sqlite/src/sqlite3.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="41"/>
+        <CursorPos X="51" Y="47"/>
+        <UsageCount Value="118"/>
+      </Unit21>
+      <Unit22>
+        <Filename Value="/usr/lib64/lazarus/components/lazutils/lazutf8.pas"/>
+        <UnitName Value="LazUTF8"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1571"/>
+        <CursorPos X="3" Y="1256"/>
+        <UsageCount Value="17"/>
+      </Unit22>
+      <Unit23>
+        <Filename Value="/usr/share/fpcsrc/packages/sqlite/src/sqlite3dyn.pp"/>
+        <UnitName Value="SQLite3Dyn"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="28" Y="6"/>
+        <UsageCount Value="64"/>
+      </Unit23>
+      <Unit24>
+        <Filename Value="/usr/share/fpcsrc/rtl/objpas/sysutils/syspchh.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="33"/>
+        <CursorPos X="10" Y="39"/>
+        <UsageCount Value="53"/>
+      </Unit24>
+      <Unit25>
+        <Filename Value="/usr/share/fpcsrc/rtl/objpas/sysutils/syspch.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="49"/>
+        <CursorPos X="20" Y="110"/>
+        <UsageCount Value="1"/>
+      </Unit25>
+      <Unit26>
+        <Filename Value="cutaway_hk.pp"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="23"/>
+        <CursorPos X="9" Y="14"/>
+        <UsageCount Value="23"/>
+      </Unit26>
+      <Unit27>
+        <Filename Value="/usr/lib64/lazarus/lcl/grids.pas"/>
+        <UnitName Value="Grids"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1203"/>
+        <CursorPos Y="1208"/>
+        <UsageCount Value="10"/>
+      </Unit27>
+    </Units>
+    <JumpHistory Count="8" HistoryIndex="7">
+      <Position1>
+        <Filename Value="lfm_main.pas"/>
+        <Caret Line="385" TopLine="385"/>
+      </Position1>
+      <Position2>
+        <Filename Value="lfm_main.pas"/>
+        <Caret Line="90" Column="25" TopLine="83"/>
+      </Position2>
+      <Position3>
+        <Filename Value="lfm_main.pas"/>
+        <Caret Line="407" Column="31" TopLine="397"/>
+      </Position3>
+      <Position4>
+        <Filename Value="lfm_main.pas"/>
+        <Caret Line="400" Column="36" TopLine="395"/>
+      </Position4>
+      <Position5>
+        <Filename Value="lfm_main.pas"/>
+        <Caret Line="402" TopLine="395"/>
+      </Position5>
+      <Position6>
+        <Filename Value="bom_hk.pas"/>
+        <Caret Line="186" Column="45" TopLine="178"/>
+      </Position6>
+      <Position7>
+        <Filename Value="handykar_const.pas"/>
+        <Caret Line="44" Column="31" TopLine="44"/>
+      </Position7>
+      <Position8>
+        <Filename Value="lfm_main.pas"/>
+        <Caret Line="403" Column="6" TopLine="395"/>
+      </Position8>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode="default"/>
+    </RunParams>
+  </ProjectSession>
+  <Debugging>
+    <BreakPoints>
+      <Item>
+        <Kind Value="bpkSource"/>
+        <WatchScope Value="wpsLocal"/>
+        <WatchKind Value="wpkWrite"/>
+        <Source Value="/usr/share/fpcsrc/packages/sqlite/src/sqlite3.inc"/>
+        <Line Value="1200"/>
+      </Item>
+      <Item>
+        <Kind Value="bpkSource"/>
+        <WatchScope Value="wpsLocal"/>
+        <WatchKind Value="wpkWrite"/>
+        <Source Value="/usr/share/fpcsrc/packages/fcl-db/src/sqldb/sqlite/sqlite3conn.pp"/>
+        <Line Value="919"/>
+      </Item>
+    </BreakPoints>
+    <Watches>
+      <Item>
+        <Expression Value="I"/>
+      </Item>
+      <Item>
+        <Expression Value="aStr"/>
+      </Item>
+    </Watches>
+  </Debugging>
+</CONFIG>
